@@ -7,7 +7,6 @@
 You can run this code on Google colab
 
 ```
-
 git clone https://github.com/Ilhamalami/YOLOsDDR.git
 
 ```
